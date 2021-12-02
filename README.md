@@ -88,8 +88,6 @@ Check these repos:
 | disable-qr-code | False: The victim will have access to the authentication QRCode (not recommended) True: The victim will not have access to the authentication QRCode | "true"      | boolean |
 
 
-# How to contribute
-For contribute, make a [pull request](https://github.com/Stanley-GF/PirateStealer/pulls) or open an [issue](https://github.com/Stanley-GF/PirateStealer/issues) with your codes
 
 # Contributors
 | Name    | Github                              | Contribute   |
