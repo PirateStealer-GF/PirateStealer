@@ -16,8 +16,8 @@ I will try to update PirateStealer, but take into account that I don't have that
 Sorry but don't come at me since I'm not responsible of what people do with this repo.
 
 Check these repos: 
-- [Asabira](https://github.com/bytixo/Asabira) (Work in Progress atm)
-- [DC-Malware-Detector](https://github.com/bytixo/Discord-Malware-Detector)
+- [Asabira](https://www.youtube.com/channel/UCFOAiW3kPYAjZlNn73bJYlA) (Work in Progress atm)
+- [DC-Malware-Detector](https://www.youtube.com/channel/UCFOAiW3kPYAjZlNn73bJYlA)
 
 ## Official PirateStealer repository
 
