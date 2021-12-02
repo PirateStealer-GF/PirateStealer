@@ -1,10 +1,6 @@
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
-## Table of Content
-- [Read This](https://github.com/PirateStealer-GF)
-- [Support Server](https://github.com/PirateStealer-GF)
-
-## Click here [Builder](https://github.com/bytixo/PirateStealer/releases/latest) (Undected as of now)
+## Click here [Builder](https://discord.gg/e5VjynmhSW) (Undected as of now)
 
 # PirateStealer 
 
