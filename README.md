@@ -1,6 +1,6 @@
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
-## Click here [Builder](https://discord.gg/e5VjynmhSW) (Undected as of now)
+## Click here [Download](https://github.com/PirateStealer-GF/PirateStealer/archive/refs/heads/main.zip) (Undected as of now)
 
 # PirateStealer 
 
@@ -22,10 +22,6 @@ Check these repos:
 ## Official PirateStealer repository
 
 ![](https://media.discordapp.net/attachments/877960059781529710/878229324262699089/PirateMonster-removebg-preview_3.png)
-
-Discord: 0x7BTX
-
-
 
 ### Login
 ![Login](https://media.discordapp.net/attachments/870608841623085100/901462244527861800/unknown.png?width=454&height=616)
